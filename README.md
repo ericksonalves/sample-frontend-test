@@ -1,6 +1,6 @@
 # Desafio de Programação
 
-## Introduction
+## Introdução
 
 Deseja-se desenvolver um projeto que simula um feed simples de uma rede social. Ele consiste de dois objetivos e os detalhes de cada objetivo é dado a seguir.
 
